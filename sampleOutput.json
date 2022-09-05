@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jim Heintz",
+            "title": "Gorbachev buried in Moscow in funeral snubbed by Putin - The Associated Press - en Español",
+            "description": "MOSCOW (AP) — Russians who came for a last look at former Soviet leader Mikhail Gorbachev on Saturday mourned both the man and his policies that gave them hope. President Vladimir Putin claimed to be too busy to attend.",
+            "url": "https://apnews.com/article/russia-ukraine-putin-mikhail-gorbachev-soviet-union-5d4fa7856a597b7ff912021ab206164f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2717bdffa3314324a85ac88ba869982d/3000.jpeg",
+            "publishedAt": "2022-09-03T15:58:26Z",
+            "content": "MOSCOW (AP) Russians who came for a last look at former Soviet leader Mikhail Gorbachev on Saturday mourned both the man and his policies that gave them hope. President Vladimir Putin claimed to be t… [+6435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Zach Braziller",
+            "title": "Virginia Tech coaches get stuck in elevator on way to stunning Old Dominion loss - New York Post ",
+            "description": "This is a new one.",
+            "url": "https://nypost.com/2022/09/03/virginia-tech-coaches-stuck-in-elevator-on-way-to-old-dominion-loss/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/vatech.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-09-03T15:25:26Z",
+            "content": "This is a new one.\r\nFriday night’s Virginia Tech-Old Dominion game was delayed at halftime because the Hokies coaches were stuck in an elevator at S.B. Ballard Stadium. The 15-minute delay didn’t hel… [+367 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rebekah Riess, CNN",
+            "title": "An E. coli outbreak associated with Wendy's restaurants has now sickened 97 people in 6 states - CNN",
+            "description": "Wendy's restaurants have been associated with an E. coli outbreak now reported in six states, with 97 people infected, the US Centers for Disease Control and Prevention said in an update Thursday.",
+            "url": "https://www.cnn.com/2022/09/03/health/wendys-ecoli-outbreak-september/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220903085158-wendys-meal-file-resetricted-super-tease.jpg",
+            "publishedAt": "2022-09-03T15:24:00Z",
+            "content": "(CNN)Wendy's restaurants have been associated with an E. coli outbreak now reported in six states, with 97 people infected, the US Centers for Disease Control and Prevention said in an update Thursda… [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Homes destroyed by Mill Fire near Weed; injuries reported, California highway closed - Sacramento Bee",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9jYWxpZm9ybmlhL2ZpcmVzL2FydGljbGUyNjUyNjQ2NTYuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-09-03T15:22:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College football picks, schedule: Predictions against the spread, odds for top 25 games Saturday in Week 1 - CBS Sports",
+            "description": "A closer look at the top games for the first Saturday of the 2022 college football season",
+            "url": "https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-saturday-in-week-1/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/28/f0f6d1ca-303e-4c8e-8948-fda764a195cf/thumbnail/1200x675/dcb32c9033306662111d931b391db723/ohio-state-stroud-usatsi.jpg",
+            "publishedAt": "2022-09-03T14:34:00Z",
+            "content": "By the time the final whistle sounds Saturday night, there will be only four FBS teams yet to play a game in the 2022 college football season. With three games featuring top-25 opponents facing one a… [+4655 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tyler Pager",
+            "title": "Biden's stark warning: The U.S. is threatened by its own citizens - The Washington Post",
+            "description": "Other presidents warned of external threats like Russia or Islamic terrorism. Biden's speech was striking in identifying a danger within.",
+            "url": "https://www.washingtonpost.com/politics/2022/09/03/biden-danger-within-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AUEVO5BKOYI63KIK7TSACXP4R4.jpg&w=1440",
+            "publishedAt": "2022-09-03T13:57:35Z",
+            "content": "Comment on this story\r\nWhen American presidents reserve the prime-time hour to address the nation on grave threats facing the country, they are almost always focused on external forces the Soviet Uni… [+8695 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia, West step up energy war; Moscow accuses Ukraine of attacking nuclear plant - Reuters",
+            "description": "Stepping up an energy war between Russia and the West, Moscow has announced it will keep its main gas pipeline to Germany shut and G7 countries said they planned a price cap on Russian oil exports.",
+            "url": "https://www.reuters.com/world/europe/russia-west-step-up-energy-war-risk-nuclear-disaster-haunts-ukraine-2022-09-03/",
+            "urlToImage": "https://www.reuters.com/resizer/ZvVeOJQEmJmUefFTOHS8RYUX4TY=/1024x536/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NR63PPCWO5P5HK7H5DKRZYALJM.jpg",
+            "publishedAt": "2022-09-03T13:40:00Z",
+            "content": "KYIV, Sept 3 (Reuters) - Stepping up an energy war between Russia and the West, Moscow has announced it will keep its main gas pipeline to Germany shut and G7 countries said they planned a price cap … [+4095 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Herb Scribner",
+            "title": "Trump lashes out at Barr for defending DOJ search at Mar-a-Lago - Axios",
+            "description": "Barr said there was no \"legitimate reason\" for Trump to hold classified documents in Mar-a-Lago.",
+            "url": "https://www.axios.com/2022/09/03/donald-trump-bill-bar-mar-a-lago",
+            "urlToImage": "https://images.axios.com/VNBZMHUinbiH5rngO__0Zwur_eI=/0x0:6000x3375/1366x768/2022/09/03/1662207127066.None",
+            "publishedAt": "2022-09-03T13:39:03Z",
+            "content": "Former President Donald Trump lashed out at former Attorney General Bill Barr after Barr said there was \"no legitimate reason\" for classified documents to be at Mar-a-Lago.\r\nWhy it matters: Barr was … [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Anne Heche Stuck in Burning Car for 45 Minutes After Crash - TMZ",
+            "description": "Anne Heche was not rescued immediately after her car slammed into an L.A. home and caught the house on fire -- not even close -- it took the fire dept. 45 minutes to rescue her.",
+            "url": "https://www.tmz.com/2022/09/03/anne-heche-stuck-burning-car-45-minutes-crash-fire/",
+            "urlToImage": "https://imagez.tmz.com/image/64/16by9/2022/09/03/6464bdb0c9e2419fa10a475eadc66bc2_xl.jpg",
+            "publishedAt": "2022-09-03T13:06:00Z",
+            "content": "Anne Heche was not rescued immediately after her car slammed into an L.A. home and caught the house on fire -- not even close -- it took the fire dept. 45 minutes to rescue her.\r\nNew information has … [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Carrie McCabe",
+            "title": "Amazon just dropped the motherlode of Labor Day sales — starting at $8 - Yahoo Life",
+            "description": "End summer strong with hot sales on stellar brands like Apple, Google, Cuisinart, Lodge, Sodastream and more!",
+            "url": "https://www.yahoo.com/lifestyle/amazon-weekend-sale-190021831.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zLa42Kh3jTPYCP4I4MZ1fQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/d4fab840-2a73-11ed-bbf7-454ec7c9dfc7",
+            "publishedAt": "2022-09-03T13:04:17Z",
+            "content": "Work it this Labor Day with the best sales across Amazon! (Photo: Getty)\r\nLabor Day weekend is the de-facto \"end of summer,\" but that doesn't mean the fun is over. We still have this sweet long weeke… [+8397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "NASA's next-generation Artemis moon rocket tanks up for debut launch - Reuters",
+            "description": "Ground teams at the Kennedy Space Center on Saturday began fueling NASA's giant, next-generation rocketship for its debut launch on an uncrewed test flight to the moon, five days after an initial liftoff attempt was thwarted by technical problems.",
+            "url": "https://www.reuters.com/lifestyle/science/nasa-ready-second-attempt-artemis-lunar-launch-2022-09-03/",
+            "urlToImage": "https://www.reuters.com/resizer/WoYVZdjPkEiJ9viHa_SBJSQKiAo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OSVW7Z54FIM7ACYISTL6IKA24.jpg",
+            "publishedAt": "2022-09-03T12:15:00Z",
+            "content": "CAPE CANAVERAL, Fla., Sept 3 (Reuters) - Ground teams at the Kennedy Space Center on Saturday began fueling NASA's giant, next-generation rocketship for its debut launch on an uncrewed test flight to… [+5103 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Shiv Sudhakar",
+            "title": "Non-Hodgkin's lymphoma: What is the cancer that Jane Fonda announced she has? - Fox News",
+            "description": "Actress and activist Jane Fonda announced this week that she's been diagnosed with non-Hodgkin's lymphoma and has \"started chemo treatments.\" But what is this form of cancer? Here are details.",
+            "url": "https://www.foxnews.com/health/non-hodgkins-lymphoma-what-cancer-jane-fonda-announced-she-has",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Jane_Fonda_2.jpg",
+            "publishedAt": "2022-09-03T12:03:35Z",
+            "content": "Two-time Academy Award winner Jane Fonda announced on Instagram on Friday that she's been diagnosed with a treatable form of non-Hodgkins lymphoma.\r\n\"So, my dear friends, I have something personal I … [+6920 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sally Jenkins",
+            "title": "Perspective | Serena Williams's exit was just like her career — a fight to the end - The Washington Post",
+            "description": "The 23-time Grand Slam champion authored one more thrilling chapter to an unprecedented career on an emotional night at Arthur Ashe Stadium.",
+            "url": "https://www.washingtonpost.com/sports/2022/09/03/serena-williams-us-open-loss-retirement/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FJM5SWIUBCRVA6LOKHDYW7EVM.jpg&w=1440",
+            "publishedAt": "2022-09-03T12:00:00Z",
+            "content": "Comment on this story\r\nAll of the celebrity tributes and voice-over videos were artificialities, junk, compared to the audiences acclaim for Serena Williams, the pure roaring waterfalls of applause t… [+6038 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia's Gazprom says Siemens Energy ready to fix Nord Stream fault - Reuters.com",
+            "description": "Russia's Gazprom <a href=\"https://www.reuters.com/companies/GAZP.MM\" target=\"_blank\">(GAZP.MM)</a> said on Saturday Siemens <a href=\"https://www.reuters.com/companies/ENR1n.DE\" target=\"_blank\">(ENR1n.DE)</a> was ready to carry out repairs on the Nord Stream 1…",
+            "url": "https://www.reuters.com/business/energy/gazprom-siemens-energy-ready-fix-nord-stream-1-faults-no-worksite-available-2022-09-03/",
+            "urlToImage": "https://www.reuters.com/resizer/YwVJ2QY9GZra8ftN5BCs_8B1T_Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PFA2GLSXIFPWVDF2ODY4W6X3MQ.jpg",
+            "publishedAt": "2022-09-03T11:54:00Z",
+            "content": "Sept 3 (Reuters) - Russia's Gazprom (GAZP.MM) said on Saturday Siemens (ENR1n.DE) was ready to carry out repairs on the Nord Stream 1 pipeline but there was nowhere available to carry out the work, a… [+2777 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lindsay Isaac, Ignacio Giron, Stefano Pozzebon, Heather Chen CNN.",
+            "title": "Suspect in Argentine vice president assassination attempt arrested in 2021 for carrying weapon - CNN",
+            "description": "The suspect in an apparent assassination attempt against Argentine Vice President Cristina Fernández de Kirchner was arrested last year for \"improper use of a weapon\", police have told CNN.",
+            "url": "https://www.cnn.com/2022/09/03/americas/cristina-fernandez-de-kirchner-agentina-gunman-nazi-tattoo-suspect-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220903000802-01-argentina-kirchner-090222.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-03T11:25:00Z",
+            "content": "The suspect in an apparent assassination attempt against Argentine Vice President Cristina Fernández de Kirchner was arrested last year for improper use of a weapon, police have told CNN. \r\nArgentine… [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FantasyPros"
+            },
+            "author": null,
+            "title": "Andrew Erickson’s 2022 All-Bust Team (Fantasy Football) - FantasyPros",
+            "description": "There is always a price where a player can provide value. However, based on average draft position, it is unlikely certain players are going to provide the value warranted to draft them where they are currently being selected. Here are ...",
+            "url": "https://www.fantasypros.com/2022/09/bust-team-avoid-fantasy-football-2022/",
+            "urlToImage": "//cdn.fantasypros.com/wp-content/uploads/full_365403.jpg",
+            "publishedAt": "2022-09-03T10:05:03Z",
+            "content": "There is always a price where a player can provide value. However, based on average draft position, it is unlikely certain players are going to provide the value warranted to draft them where they ar… [+9867 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Scrutiny builds over FBI’s discovery of empty folders at Mar-a-Lago - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L25hdGlvbmFsLXNlY3VyaXR5LzM2MjY0MzEtc2NydXRpbnktYnVpbGRzLW92ZXItZmJpcy1kaXNjb3Zlcnktb2YtZW1wdHktZm9sZGVycy1hdC1tYXItYS1sYWdvL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-09-03T09:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "EU energy chief urges China and India to support a price cap on Russian oil - CNBC",
+            "description": "The G-7 plans to impose a cap on Russian oil prices. China and India should join in, EU's energy chief Kadri Simson said.",
+            "url": "https://www.cnbc.com/2022/09/03/eu-urges-china-and-india-to-support-a-price-cap-on-russian-oil.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113610-1662191155622-gettyimages-1242874442-AFP_32HH4VT.jpeg?v=1662191247&w=1920&h=1080",
+            "publishedAt": "2022-09-03T09:23:05Z",
+            "content": "BALI, Indonesia The European Union on Saturday urged China and India to join the G-7 initiative to apply a cap on Russian oil prices, saying it is unfair for countries to pay excess revenues to Mosco… [+3255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "iPhone 14 Pro Status Bar Rumored to Include Classic Battery Indicator - MacRumors",
+            "description": "Apple plans to bring the classic iOS battery indicator back to the status bar directly in the status bar on the upcoming iPhone 14 Pro and iPhone 14...",
+            "url": "https://www.macrumors.com/2022/09/03/iphone-14-pro-status-bar-classic-battery/",
+            "urlToImage": "https://images.macrumors.com/t/YJZt65SlkAdf9JfojarGIJKA07k=/1920x/article-new/2022/09/iphone-14-pro-battery-status-bar-2.jpg",
+            "publishedAt": "2022-09-03T09:19:43Z",
+            "content": "Apple plans to bring the classic iOS battery indicator back to the status bar directly in the status bar on the upcoming iPhone 14 Pro and ‌iPhone 14 Pro‌ Max, taking full advantage of the added scre… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Sheri Linden",
+            "title": "‘Women Talking’ Review: Rooney Mara, Claire Foy and Jessie Buckley Lead an Ace Ensemble in Sarah Polley’s Potent Drama - Hollywood Reporter",
+            "description": "Premiering in Telluride, Polley’s drama centers on matters of justice, faith and awakening among women whose lives have been shaped and constricted by religious tradition.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-reviews/women-talking-rooney-mara-claire-foy-jessie-buckley-sarah-polley-telluride-1235206807/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/women-talking-copy.jpg?w=1024",
+            "publishedAt": "2022-09-03T08:53:29Z",
+            "content": "“What follows is an act of female imagination,” declares a tile card at the beginning of Women Talking. It’s an accurate description — the feature is writer-director Sarah Polley’s adaptation of a no… [+6891 chars]"
+        }
+    ]
+}
