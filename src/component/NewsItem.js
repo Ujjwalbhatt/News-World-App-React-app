@@ -1,6 +1,7 @@
 // import { getByTitle } from '@testing-library/react'
 import React, { Component } from 'react'
 
+
 export class NewsItem extends Component {
 
   render() {
@@ -8,7 +9,7 @@ export class NewsItem extends Component {
     return (
       <div className='my-3 mx-3'>
  
-        <div className="card" style={{ width: "18rem" }}>
+        <div className="card">
           <img src={!imageUrl?"https://medi ds/2017/02/10x-featured-social-media-image-size.png" :imageUrl} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{title} </h5>
